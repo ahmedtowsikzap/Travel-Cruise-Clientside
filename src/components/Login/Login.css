@@ -1,0 +1,18 @@
+
+  @media (min-height: 300px) and (max-height: 450px) {
+    .intro {
+      height: auto;
+    }
+  }
+  
+  .border-radius{
+    border-radius: 31px;
+    border: 0px solid;
+   
+  }
+  .custom{
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgb(36, 3, 3) 89%);
+    
+    box-shadow: rgba(4, 4, 23, 0.968) 0px 10px 36px 0px, rgb(0, 0, 0) 0px 0px 0px 1px;
+    
+  }

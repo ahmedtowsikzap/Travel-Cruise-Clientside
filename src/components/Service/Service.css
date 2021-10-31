@@ -1,0 +1,8 @@
+.card-img{
+
+    height: 300px;
+}
+.card-item-fix{
+    border-radius: 20px;
+    background: linear-gradient(0deg, rgb(0, 0, 0) 0%, rgb(55, 11, 11) 89%);
+}
